@@ -1,0 +1,9 @@
+* atomics
+
+This is a library for access to atomic operation primitives such as compare-and-swap.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Shinmera/atomics.git |
+| commit  | 9ee0bde                                     |
+| systems | atomics                                     |
+|---------+---------------------------------------------|
