@@ -4,6 +4,6 @@ This is a library for access to atomic operation primitives such as compare-and-
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/atomics.git |
-| commit  | 5b36bf2                                     |
+| commit  | bf0e261                                     |
 | systems | atomics                                     |
 |---------+---------------------------------------------|
